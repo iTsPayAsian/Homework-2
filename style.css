@@ -11,24 +11,42 @@
     background-color: #1fc1e5;
     display: inline-block;
 }
-
 .header h1{
     font-size: 50px;
 }
-
 .header div{
     padding-top: 20px;
     margin-right: 20px;
     font-size: 20px;
 }
-
 .header div ul{
     list-style-type: none;
     float: right;
 }
-
 .header div ul li{
      margin-left: 20px;
      float: left;
     font-size: 20px;
 } 
+
+.aboutMe{
+    padding: 20px; 
+}
+.aboutMe img{
+    width: 100px; 
+}
+
+.myFamily{
+    padding: 20px;
+}
+.myFamily img{
+    width: 100px;
+}
+
+.Work{
+    padding: 20px;
+}
+
+.CI{
+    padding: 20px; 
+}
