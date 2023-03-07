@@ -3,13 +3,13 @@
     padding: 0;
     margin: 0;
     background-color: #1fc1e5;
+    
 
 }
 
 .header{
     padding: 20px;
     width: 100%; 
-    
     display: inline-block;
     border-style: dashed;
     border: 5%;
@@ -35,6 +35,7 @@
 
 .aboutMe{
     padding-top: 10px;
+    width: 50%;
     float: left;
     padding-right: 10px;
     border-style: dashed;
@@ -48,15 +49,22 @@
 }
 .aboutMe p{
     font-size: 16px;
+    text-align: left;
 }
 .aboutMe img{
-    width: 100px;
+    width: 15%;
     float: right;
+    
 }
 
 .myFamily{
     padding: 20px;
+    width: 50%;
+    height: 267px;
     float: right;
+    border-style: dashed;
+    border: 5%;
+    border-color: silver black;
 }
 .myFamily img{
     width: 100px;
@@ -64,8 +72,18 @@
 
 .Work{
     padding: 20px;
+    border-style: dashed;
+    border: 5%;
+    border-color: silver black;
+}
+.Work h1{
+    
+    text-align: center;
 }
 
 .CI{
     padding: 20px; 
+    border-style: dashed;
+    border: 5%;
+    border-color: silver black;
 }
