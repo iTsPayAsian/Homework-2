@@ -60,7 +60,7 @@
 .myFamily{
     padding: 20px;
     width: 50%;
-    height: 267px;
+    height: 310px;
     float: right;
     border-style: dashed;
     border: 5%;
@@ -86,4 +86,11 @@
     border-style: dashed;
     border: 5%;
     border-color: silver black;
+}
+.CI h1{
+    
+    text-align: left;
+}
+.CI p{
+    text-align: center;
 }
